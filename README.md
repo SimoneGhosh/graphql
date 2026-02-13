@@ -7,9 +7,7 @@ learning graphql
 - Connect frontend applications like React to GraphQL using Apollo Client for seamless and scalable client-server data communication  
 - Monitor and debug your GraphQL APIs using Apollo Studio for better performance insights and developer productivity  
 
-GraphQL Fundamentals course:
-
-GraphQL Fundamentals course:
+## GraphQL Fundamentals course:
 
 ### Module 1: Understanding GraphQL Fundamentals
 
